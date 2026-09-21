@@ -35,10 +35,10 @@ Simulated fingerprint pattern scan (pattern → hashed template)
 Fraud flagging + IP logging on biometric mismatch
 
 ## Team Members
-- Karthik K
-- Nitish Kumar
-- Srajan Kumar Shetty
-- Vighnesh
+- 👤 Karthik K
+- 👤 Nitish Kumar
+- 👤 Srajan Kumar Shetty
+- 👤 Vighnesh
 
 Important: This is a demo system.
 
