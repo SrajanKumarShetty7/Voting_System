@@ -33,6 +33,13 @@ Mock India-wide voter database (state/constituency)
 Webcam face capture overlay (face-api.js in-browser when models are provided)
 Simulated fingerprint pattern scan (pattern → hashed template)
 Fraud flagging + IP logging on biometric mismatch
+
+## Team Members
+- Karthik K
+- Nitish Kumar
+- Srajan Kumar Shetty
+- Vighnesh
+
 Important: This is a demo system.
 
 It does not connect to real Aadhaar or any government systems.
