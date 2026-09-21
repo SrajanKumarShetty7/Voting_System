@@ -1,5 +1,5 @@
+<h1 align="right"><strong>Voting_System</strong></h1>
 
-Voting_System
 Repository navigation
 Code
 Issues
